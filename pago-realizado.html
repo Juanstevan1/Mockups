@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transacción Exitosa</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Enlace de Google Fonts para Nunito -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Nunito', sans-serif;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            background-image: url('imagenes/fondo.jpg'); /* Reemplaza con la ruta correcta de tu imagen */
+            background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
+            background-position: center; /* Centra la imagen en el fondo */
+            background-repeat: no-repeat; /* Evita que la imagen se repita */
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Nunito', sans-serif;
+        }
+
+        .navbar {
+            background-color: #333;
+            color: #fff;
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .navbar-brand {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: #fff;
+        }
+
+        .navbar-brand img {
+            border-radius: 5px;
+            margin-right: 10px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .footer {
+            padding: 15px;
+            background-color: #001F3F;
+            color: #fff;
+            text-align: center;
+            margin-top: auto;
+        }
+
+        .content-container {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column; /* Agregamos esta línea para centrar verticalmente */
+            margin-top: 2rem; /* Ajusta este valor según tus necesidades */
+        }
+
+        .custom-title {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .content-container {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column; /* Agregamos esta línea para centrar verticalmente */
+            margin-top: 2px; /* Ajusta este valor según tus necesidades */
+        }
+
+        .card-img-top {
+            border-top-left-radius: 15px;
+            border-top-right-radius: 15px;
+            max-width: 150%; /* Ajusta el tamaño máximo según tus preferencias */
+            height: auto;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .custom-form {
+            border-radius: 15px;
+            border: 2px solid #000;
+            padding: 8px; /* Ajusta este valor según tus necesidades */
+            width: 80%;
+            text-align: center; /* Centramos el contenido del formulario */
+        }
+
+        /* Media query para pantallas más grandes */
+    @media (min-width: 768px) {
+    .card-img-top {
+        max-width: 50%; /* Ajusta el tamaño máximo para pantallas más grandes */
+    }
+}
+    </style>
+</head>
+
+<body>
+    <div class="navbar md-5">
+        <a class="navbar-brand" href="#">
+            <img src="imagenes/logoicono.ico" alt="Logo de Mi Aplicación" class="rounded-circle">
+            UPARKING
+        </a>
+        <ul class="nav-links">
+            <li><a href="#" class="btn btn-primary">Salir</a></li>
+        </ul>
+    </div>
+
+    <section class="py-5">
+        <div class="content-container">
+            <div class="card custom-form">
+                <div class="card-body p-4">
+                    <div class="custom-title">
+                        <h2 class="text-center mb-4">Transacción Exitosa</h2>
+                        <img src="imagenes/qr.png" class="card-img-top img-fluid" alt="Imagen de la transacción exitosa">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container text-center text-md-start">
+            <div class="text-white">
+                Copyright © 2023. All rights reserved.
+            </div>
+            <div class="mt-3">
+                <a href="#!" class="text-white me-4">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+                <a href="#!" class="text-white me-4">
+                    <i class="fab fa-twitter"></i>
+                </a>
+                <a href="#!" class="text-white me-4">
+                    <i class="fab fa-google"></i>
+                </a>
+                <a href="#!" class="text-white">
+                    <i class="fab fa-linkedin-in"></i>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+
+</html>
