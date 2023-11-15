@@ -39,7 +39,7 @@ Proyecto donde se muestra la aplicacion web de uparkin, solo las vistas sin ning
 
 ---
 
-**Vista pago**
+## **Vista pago**
 ![pago-pc](https://github.com/Juanstevan1/Mockups/assets/104111033/4eae4725-8e0a-46e7-b809-52f80461a0ea)
 
 ![pago-cel](https://github.com/Juanstevan1/Mockups/assets/104111033/29b97b35-d0df-41eb-90a4-014d49fb1ca3)
