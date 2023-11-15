@@ -24,7 +24,7 @@ Proyecto donde se muestra la aplicacion web de uparkin, solo las vistas sin ning
 
 ---
 
-**Vista login**
+## **Vista login**
 
 ![Login-pc](https://github.com/Juanstevan1/Mockups/assets/104111033/aa718f4c-4d4c-4165-88ae-78f0727f074c)
 
@@ -32,7 +32,7 @@ Proyecto donde se muestra la aplicacion web de uparkin, solo las vistas sin ning
 
 ---
 
-**Vista menu**
+## **Vista menu**
 ![menu-pc](https://github.com/Juanstevan1/Mockups/assets/104111033/e26157ce-c03b-4f29-9e4a-7814b1571727)
 
 ![menu-cel](https://github.com/Juanstevan1/Mockups/assets/104111033/fdd75703-6998-4000-b6f7-7092fbe0b6db)
@@ -46,14 +46,14 @@ Proyecto donde se muestra la aplicacion web de uparkin, solo las vistas sin ning
 
 ---
 
-**Vista pago carnet**
+## **Vista pago carnet**
 ![tarjeta-pc](https://github.com/Juanstevan1/Mockups/assets/104111033/26d1362f-5d15-4ee6-a814-6708d803240f)
 
 ![carnet-cel](https://github.com/Juanstevan1/Mockups/assets/104111033/304390a9-183a-4706-9a6d-433c5f623664)
 
 ---
 
-**Vista pago qr**
+## **Vista pago qr**
 ![qr-pc](https://github.com/Juanstevan1/Mockups/assets/104111033/c637ce9f-30b1-44e6-a3e4-2a031d537cb3)
 
 ![qr-cel](https://github.com/Juanstevan1/Mockups/assets/104111033/42c6fce4-77e5-4922-85d3-e693422ce72d)
